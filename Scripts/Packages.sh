@@ -84,6 +84,7 @@ UPDATE_PACKAGE "luci-app-lucky" "sirpdboy/luci-app-lucky" "main"
 UPDATE_PACKAGE "luci-app-tailscale-community" "Tokisaki-Galaxy/luci-app-tailscale-community" "master" "" "luci-app-tailscale-community"
 UPDATE_PACKAGE "luci-app-dae" "sbwml/luci-app-dae" "main"
 UPDATE_PACKAGE "v2ray-geodata" "sbwml/v2ray-geodata" "master"
+UPDATE_PACKAGE "luci-app-run" "wukongdaily/luci-app-run" "main"
 
 #更新软件包版本
 UPDATE_VERSION() {
