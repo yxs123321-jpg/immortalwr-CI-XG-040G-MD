@@ -87,6 +87,7 @@ UPDATE_PACKAGE "v2ray-geodata" "sbwml/v2ray-geodata" "master"
 UPDATE_PACKAGE "luci-app-run" "wukongdaily/luci-app-run" "master"
 UPDATE_PACKAGE "istore" "linkease/istore" "main"
 UPDATE_PACKAGE "openwrt-daede" "kenzok8/openwrt-daede" "main"
+UPDATE_PACKAGE "luci-app-minigate" "tpxcer/luci-app-minigate" "main"
 
 #更新软件包版本
 UPDATE_VERSION() {
