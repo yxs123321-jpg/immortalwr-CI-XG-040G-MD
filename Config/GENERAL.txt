@@ -46,6 +46,8 @@ CONFIG_PACKAGE_taskd=y
 CONFIG_PACKAGE_luci-lib-xterm=y
 CONFIG_PACKAGE_luci-lib-taskd=y
 CONFIG_PACKAGE_luci-app-store=y
+#luci-app-daede 统一管理界面
+CONFIG_PACKAGE_luci-app-daede=y
 
 #lucky
 CONFIG_PACKAGE_luci-app-lucky=n
